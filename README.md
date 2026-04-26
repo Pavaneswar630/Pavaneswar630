@@ -59,7 +59,3 @@ I am a Computer Science Engineer (Class of 2026) specializing in building highly
 * Achieved high branch coverage via white-box testing, reducing manual regression testing time by 60%.
 * Tracked code coverage and defect density metrics to ensure SLA-driven resolution across 15+ documented defects.
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavaneswar630&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
