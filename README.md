@@ -4,7 +4,7 @@
 
 I am a Computer Science Engineer (Class of 2026) specializing in building highly scalable, fault-tolerant systems designed for real-world performance. I focus on bridging robust enterprise architecture with predictive machine learning models, applying telemetry, metrics-driven engineering, and rigorous automation to drive operational excellence.
 
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/pavaneshwar-bommisetty/) | pavaneswar224@gmail.com
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/pavaneshwar-bommisetty/) | [Portfolio](https://pavaneswar630.github.io/Portfolio/) | pavaneswar224@gmail.com
 
 ---
 
